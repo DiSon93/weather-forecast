@@ -5,7 +5,7 @@
 API_URL=http://api.weatherapi.com/v1/
 WEATHER_API_KEY=1f6ced3bfab143cda1e44028240205
 
-2. run npm install
+2. run npm install (or run npm install --save --legacy-peer-deps if you get error)
 
 3. run npm run dev
 
